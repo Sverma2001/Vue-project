@@ -1,0 +1,1 @@
+create table users(email text, first_name text, last_name text, password text);
